@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance humbly presented to the High and Honourable Court of Parliament: touching the insupportable miseries of the poore of the land, especially at this time, and in this great city of London, within the line of communication, and bill of mortality; and the causes thereof. Together with the cure and remedy; and the great care which the princes of other nations, states, countries and cities have taken therein. / By Leonard Lee, Gent.</title>
+            <author>Lee, Leonard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88872</idno>
+            <idno type="STC">Wing L844</idno>
+            <idno type="STC">Thomason E273_8</idno>
+            <idno type="STC">ESTC R212173</idno>
+            <idno type="EEBO-CITATION">99870819</idno>
+            <idno type="PROQUEST">99870819</idno>
+            <idno type="VID">123214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123214)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E273[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance humbly presented to the High and Honourable Court of Parliament: touching the insupportable miseries of the poore of the land, especially at this time, and in this great city of London, within the line of communication, and bill of mortality; and the causes thereof. Together with the cure and remedy; and the great care which the princes of other nations, states, countries and cities have taken therein. / By Leonard Lee, Gent.</title>
+                  <author>Lee, Leonard.</author>
+               </titleStmt>
+               <extent>[8], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. for John Rothwell, and are to be sold at his shop, at the signe of the Sunne in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1644 [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1644[5]; Thomason catalogue lists under 1645.</note>
+                  <note>Annotation on Thomason copy: "March 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England --  Economic conditions --  17th century --  Early works to 1800.</term>
+               <term>London (England) --  Economic conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123214:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE Humbly preſented To the High and Honourable COURT OF PARLIAMENT: Touching the inſupportable miſeries of the poore of the Land, eſpecially at this time, and in this great City of <hi>London,</hi> within the Line of Communication, and Bill of mortality; and the cauſes thereof.</p>
+            <p>Together with the Cure and remedy; and the great care which the Princes of other Nations, States, Countries and Cities have taken therein.</p>
+            <p>
+               <hi>BY</hi> LEONARD LEE, <hi>Gent.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. G.</hi> for <hi>John Rothwell,</hi> and are to be ſold at his ſhop, at the ſigne of the Sunne in <hi>Pauls</hi> Church-yard. 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:123214:2"/>
+            <pb facs="tcp:123214:2"/>
+            <head>TO THE HIGH AND HONOURABLE Court of PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt the many and mi<g ref="char:EOLhyphen"/>ſerable preſſures in this Kingdome, eſpecially in this renowned City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> idleneſſe and want of imployment hath been the deſtruction of many, and as a peſtilent malady it daily encreaſes. For prevention where<g ref="char:EOLhyphen"/>of, at the ſpeciall inſtance and impor<g ref="char:EOLhyphen"/>tunity of ſome Noble and Reverend friends, I heretofore preſented ſome propoſitions to the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty for ſetting the poore a<g ref="char:EOLhyphen"/>worke throughout the Kingdome; whereby all ſorts of people, men, wo<g ref="char:EOLhyphen"/>men, and children, aged and impotent, might be imployed, and relieved. Which His Majeſty, together with the
+<pb facs="tcp:123214:3"/>Lords of His Privy Councell commi<g ref="char:EOLhyphen"/>ſerated, and ordered a ſpeedy proſecuti<g ref="char:EOLhyphen"/>on thereof. But by reaſon of the weigh<g ref="char:EOLhyphen"/>ty and troubleſome affaires of the State, at that time all ſuch publique buſineſſes were neglected.</p>
+            <p>And now again, upon the like impor<g ref="char:EOLhyphen"/>tunity, and in a deſire of the good of the Kingdome, and of this City, ſeeing the poore and their miſeries encreaſing to<g ref="char:EOLhyphen"/>gether in theſe diſaſterous and trade<g ref="char:EOLhyphen"/>leſſe times, I have here preſumed hum<g ref="char:EOLhyphen"/>bly to preſent ſome propoſitions and reaſons conducing to the reliefe &amp; im<g ref="char:EOLhyphen"/>ployment of the poore, which if they finde (acceptance to execution) it will bring a bleſsing to your ſelves, a benefit to the people, a reliefe to the diſtreſſed, and an honour to the Nation, which is the petition and prayer of</p>
+            <closer>
+               <signed>Your Honours Orator and Servant, <hi>Leonard Lee.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:123214:3"/>
+            <head>TO THE RIGHT HONORABLE the Lord Major of the City of <hi>London,</hi> the Right Worſhipfull the Aldermen and the reſt of the Common-Councell.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Character ſet upon our Engliſh Na<g ref="char:EOLhyphen"/>tion by Strangers is, To have excel<g ref="char:EOLhyphen"/>lent Lawes, but no execution; like Pictures curiouſly drawne, well faced, and lim'd, but want life, and motion: They ſay likewiſe we have good materialls, but bad orders; little care, and abundance of idle and lewd people; few Cities, and thoſe ruinous, baſely built, thin of Inhabitants, and moſt of them poore; and all cauſed through idleneſſe and want of imploy<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And now ſince theſe unnaturall Wars begun, the miſeries of the poore doe much more abound, wherefore upon the earneſt deſire of ſome Chari<g ref="char:EOLhyphen"/>table and wel affected friends, I have here preſented ſome Propoſitions to the high Court of Parlia<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:123214:4"/>and likewiſe here unto you in whoſe power the promoting of ſo wonderfull neceſſary a worke doth lie. It is a ſaving of the Soules and lives of ma<g ref="char:EOLhyphen"/>ny thouſands, which through want of imployment fall to lewdneſſe, and ſo periſh: for there is no vice, villany, murther, or miſchiefe, drunkeneſſe and diſ<g ref="char:EOLhyphen"/>order, but Idleneſſe doth contract it, nor is there any way to cure it but by imployment.</p>
+            <p>It is a worke never yet paralleled nor begun by any your predeceſſors, and will render you famous to poſterity; It is pleaſing to God, an honour and benefit to the City, and will be a pat<g ref="char:EOLhyphen"/>terne for the whole Kingdome, nay for all the Kings Dominions to follow, which is the great deſire of</p>
+            <closer>
+               <signed>Your friend and ſervant, <hi>LEONARD LEE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:123214:4"/>
+            <head>To the Charitable and Tender-hearted Reader.</head>
+            <opener>
+               <salute>Good friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Vch is the commiſeration of the great Chan<g ref="char:EOLhyphen"/>cellors and Judges of this Land, that if a poore man have ſute at Law in any Court, thoſe Judges aſſignes learned councell to plead, and able Atturnies to proſecute their cauſe without money; And ſuch councell are ſooneſt heard upon any motion, firſt for their poore Clients and afterwards for themſelves, which otherwiſe might waite longer.</p>
+            <p>Here then is the greateſt ſuite in the Chriſtian World that ever was preſented to the power of Magiſtracy <hi>(in forma pauperis)</hi> It is the bleeding condition of the in<g ref="char:EOLhyphen"/>ſupportable miſeries of many thouſand poore hunger-bit, almoſt ſtarved creatures.</p>
+            <p>Therefore as you have already received and hope for the continuance of mercies from the great Iudge of all the
+<pb facs="tcp:123214:5"/>World, who in a moment can blow an emptineſſe upon your Eſtates and make you as miſerable as any, have pity upon theſe diſtreſſed ones, be all counſellors, adviſe, plead and proſecute their now depending ſute with your Heads, Hearts, Purſes, Paines, doe all you can to promote it, thereby you will finde ſome contentment in your minds, that you have been inſtruments of any good, a benefit to your purſes to be eaſed of collections, ſecurity to your eſtates to have lewd perſons well imployed, and the loynes of the poore will bleſſe you, beſides your reward from Heaven.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:123214:5"/>
+            <head>A REMONSTRANCE of the ſufferings of the Kingdome by reaſon of the poore and lend people, and of their miſerie; how the ſame is cauſed, and how cured.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Any things there are which doe tend to the good and flouriſhing of a King<g ref="char:EOLhyphen"/>dome; and many things to the ruine and deſtruction thereof: Amongſt which, idleneſſe, and want of imploy<g ref="char:EOLhyphen"/>ment is one of the greateſt; for what vice and villany is there committed, or likſome poverty indured, that is not generally occaſioned thereby: and ſuch perſons as live idly out of any calling <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ulcers in a Common-wealth, oppreſſors of a State, and impoveriſhers of a Kingdome. And herein is this great City mightily op<g ref="char:EOLhyphen"/>preſſed: for many yeeres ſince the number of the poore was exceeding great; and now of late, eſpecially ſince theſe unnaturall warres began, there are multitudes of poore lately ſprung up, whoſe miſeries are many: therfore
+<pb n="2" facs="tcp:123214:6"/>the things that I ſhall here tender to your great judge<g ref="char:EOLhyphen"/>ments, are onely theſe five:</p>
+            <list>
+               <item>
+                  <label>To ſhew</label> 1. <hi>Who theſe poore are.</hi>
+               </item>
+               <item>
+                  <label>To ſhew</label> 2. <hi>Wherein the evill doth conſiſt.</hi>
+               </item>
+               <item>
+                  <label>To ſhew</label> 3. <hi>The cauſes thereof.</hi>
+               </item>
+               <item>
+                  <label>To ſhew</label> 4. <hi>The cure and remedy.</hi>
+               </item>
+               <item>
+                  <label>To ſhew</label> 5. <hi>And chiefly bow this cure is to be applyed.</hi>
+               </item>
+            </list>
+            <p>And firſt, who theſe poore are.</p>
+            <p>THey are the indigent, diſtreſſed, and helpleſſe crea<g ref="char:EOLhyphen"/>tures, ſuch as have not meanes to ſupply their preſent wants, whereby they endure much in their perſons, and often endanger ſoules, bodies, lives, and all to get it. And therefore it is that <hi>Plato</hi> cals poverty, theeviſh, filthy, ſa<g ref="char:EOLhyphen"/>crilegious, wicked and dangerous; for it makes many that would live honeſtly to cheat, lie, ſteale, kill, turne Turk, or any thing. According to that ſaying of the Wiſe-man, <hi>Be<g ref="char:EOLhyphen"/>cauſe of poverty, the Land hath ſinned.</hi>
+            </p>
+            <p>And for the additionall poore lately ſprung up; theſe are of divers ſorts:
+<list>
+                  <item>1. All ſuch whoſe trades, and imployment, by reaſon of theſe troubleſome times, are wholly taken away.</item>
+                  <item>2. Such as are ſtript out of their eſtates, in ſeverall Countries, here in <hi>England,</hi> and likewiſe in <hi>Ireland,</hi> and fled to this great City for refuge.</item>
+                  <item>3. Such whoſe huſbands are ſlaine in theſe wars, and left deſtitute with many children, unprovided for.</item>
+                  <item>4. Such maimed and lame Souldiers as are recovered of their wounds, but not of their limbs; able to go abroad, but not to worke, whereby to maintaine their families, or themſelves, with their labour.</item>
+                  <item>5. The great number of Souldiers, and others of the
+<pb n="3" facs="tcp:123214:6"/>enemies party, which have been taken in the warres, and are now in priſon, and have not meanes to ſubſiſt of them<g ref="char:EOLhyphen"/>ſelves, but are maintained by the State.</item>
+               </list>
+            </p>
+            <p>All which, together with the former ſort of poore, will make the number almoſt innumerable; yet, all theſe muſt be provided for.</p>
+            <p>The ſecond thing is, wherein the evill doth conſiſt.</p>
+            <p>IF we looke to the event of things, we ſhall finde the miſeries of the poore, the ſufferings of the Kingdome, but chiefly in this City, to be wonderfull great, and all occaſioned through <hi>idleneſſe;</hi> which, as <hi>Lycurgus</hi> in <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> cals it, <hi>morbus reipublicae,</hi> the evils of a Common-wealth, the mother of miſchiefe, the nurſe of all naughti<g ref="char:EOLhyphen"/>neſſe, the cauſer of drunkenneſſe, begetter of all vice and villany, of thieves, rogues, robberies, murthers, and the roote from whence the multitudes of beggers doe pro<g ref="char:EOLhyphen"/>ceed and ſpring. We may truely ſay of them, as <hi>Ariſtotle</hi> ſpeaks of melancholy, they are <hi>commune malum,</hi> a generall evill. And theſe are of three ſorts.</p>
+            <list>
+               <item>
+                  <label>The</label> 1. <hi>Inſolent.</hi>
+               </item>
+               <item>
+                  <label>The</label> 2. <hi>Impudent.</hi>
+               </item>
+               <item>
+                  <label>The</label> 3. <hi>Indigent.</hi>
+               </item>
+            </list>
+            <p>Firſt, the inſolent and ſturdy ſort of poore, ſuch as have no calling or profeſſion, nor ſcarce any conſtant place of abode: like the <hi>Apodes</hi> a Bird in <hi>India,</hi> of whom <hi>Juvenall</hi> ſpeakes, that hath no feet to reſt on, but is alway flying: ſo theſe have no ſetled habitation or im<g ref="char:EOLhyphen"/>ployment to be maintained by, but live by cheating, thee<g ref="char:EOLhyphen"/>ving, cut-purſing, and ſuch like villanies, lurking and
+<pb n="4" facs="tcp:123214:7"/>ſhifting up and downe in ſecret places, of which there are multitudes.</p>
+            <p>Secondly, the impudent poore. And ſuch are the com<g ref="char:EOLhyphen"/>mon beggers, common private lewd perſons, and proſti<g ref="char:EOLhyphen"/>tutes, and common ſtreet night-walkers; all which, like ſo many plague-ſores infect and poyſon this City; yet all theſe are maintained, not by their owne labours, or any livelihood of their owne, nor their illegitimate children put to nurſe, or maintained by any pariſhes; for then this great, wiſe, and religious City would long ſince have ſought for redreſſe.</p>
+            <p>Thirdly, the indigent, miſerable, and diſtreſſed poore, which riſe up early, ſit up late, and eate the bread of carefulneſſe, when they can get it, moyle and toyle at the baſeſt and ſordidſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worke, doe any thing, endure any thing, and all for a ſmall reward, which will ſcarce hold life and ſoule together; and their greateſt ſorrow is, their wives and chidren lie at home idly, full of mi<g ref="char:EOLhyphen"/>ſery, and have no imployment, but forced to commit almoſt any villany to keepe them from periſhing: Yet let theſe complaine they want worke; and bewaile their diſtreſſes, and as <hi>Solomon</hi> ſaies, <hi>ſpeake with prayers,</hi> they are not regarded, nor imployed.</p>
+            <p>And were it poſſibe that an eſtimat could be given of the number of all theſe inſolent, impudent, and indigent creatures, men, women, and children, together with ſuch as are of late increaſed, and ſuch as are in all the pri<g ref="char:EOLhyphen"/>ſons about the Towne, we ſhould finde the number in<g ref="char:EOLhyphen"/>conceivable.</p>
+            <p>For heretofore upon this occaſion, about imployment for the poore, upon enquiry it was found, that St. <hi>Olaves</hi> Pariſh in Southwarke had above eight and twenty hun<g ref="char:EOLhyphen"/>dred families which never paid Subſidy, or taxations, be<g ref="char:EOLhyphen"/>ſides Lodgers and other lewd people.</p>
+            <pb n="5" facs="tcp:123214:7"/>
+            <p>And in each Family there could be no leſſe then three or foure perſons, which amounts to ten thouſand poore people at the leaſt in that Pariſh; yet ſuppoſe there ſhould be but foure thouſand poore in that Pariſh, the totall number within the Line of Communication and bills of Mortality, would amount to more then forty thouſand poore.</p>
+            <p>And for the charges to maintaine all theſe, wee may well reckon for Houſe-rent, Cloathes, Victualls, Firing and good Ale, which many of them full dearely love, and other neceſſaries; to be no leſſe then righteen pence a week foure pound a year for each perſon, which amounts to one hundred &amp; threeſcore thouſand pounds <hi>per annum,</hi> which theſe people waſt and conſume, and uſe no imployment toward the getting of any part thereof, but meerely ex<g ref="char:EOLhyphen"/>hauſt it from the State.</p>
+            <p>Nay, if all theſe ſhould ſpend but one hundred thou<g ref="char:EOLhyphen"/>ſand pound <hi>per unnum,</hi> it is more I believe then this City would willingly ſpare to be conſumed in Idleneſſe, Drun<g ref="char:EOLhyphen"/>kenneſſe and Villany.</p>
+            <p>And to all theſe may be added the additionall poore lately ſprung up, which makes the charges and the op<g ref="char:EOLhyphen"/>preſſion to be far greater.</p>
+            <p>Where as if all theſe people were forced to get their owne livings, leſſe villany would be daily committed, and more Engliſh wares made to ſupply the Kingdome to fur<g ref="char:EOLhyphen"/>ther exportations, and abate importations, to the ad<g ref="char:EOLhyphen"/>vance of the State, and reliefe of the poore.</p>
+            <p n="3">To ſhew the cauſe of all this evill and miſery.</p>
+            <p>THe cauſe in a word is idleneſſe, want of imployment; which, as one obſerves, is the <hi>Malus genius</hi> of a Nation: for if the ſubject ſhould be prohibited from their imploy<g ref="char:EOLhyphen"/>ment
+<pb n="6" facs="tcp:123214:8"/>but one quarter of a yeare, many thouſands that now live well would beg, and as many ſtarve and periſh; which doth infallibly and unanſwerably ſhew, that the imployment of the ſubject is both the ſupporting of a Kingdom, and the ſupplying of mens preſent wants.</p>
+            <p>For what cauſeth a decay of all Arts, Trades, Myſteries, Profeſſions; and what bringeth poverty, beggery and mi<g ref="char:EOLhyphen"/>ſery, but idleneſſe?</p>
+            <p>Whats the reaſon that this Metropolitan City, and the Suburbs are the onely neſts and harbours for Cut<g ref="char:EOLhyphen"/>purſes and capitall offenders, and the grand Nurſery for lewd perſons and illegitimate children, but idleneſſe? that all commodities and proviſion is inhanced in the Ci<g ref="char:EOLhyphen"/>ty, but that many thouſands of idle people, like Catter-pillers in a Common-Wealth, eate up the fruits and la<g ref="char:EOLhyphen"/>bours of others; And Taphouſes ſo abundantly frequen<g ref="char:EOLhyphen"/>ted, whereby thouſands of quarters of malt is ſpent in exceſſe and Drunkenneſſe? all which would exceedingly refreſh the poore, and bring down the prices of Corne and Bread.</p>
+            <p>Whats the cauſe that our Kingdome affords not as brave Cities, Townes and Villages as France, Italy, the Low-Countries and other places? becauſe, as ſome writers ſay, in thoſe parts they are more politick, circumſpect and induſtrious, and as <hi>Polydore</hi> reports of us here in England, that our Cities and Towns are ſmall, ruinous, baſely built, thin of Inhabitants, and the greateſt part of thoſe poore, and all through want of imployment.</p>
+            <p>Whats the cauſe that our Gaoles are ſo full, and every yeare ſo many hundred of people condemned and Exe<g ref="char:EOLhyphen"/>cuted, and others for ſmall matters of theft impriſoned a long time, the Houſes of correction ſo peſtered, ſo much abuſe and diſorder dayly committed? is it not want of imployment? they can get no work.</p>
+            <pb n="7" facs="tcp:123214:8"/>
+            <p>What a moſt pitious thing is it to ſee a poore man caſt in priſon, and in danger to be hanged for ſtealing a ſheep, a lambe or ſuch like thing of ſmall value, which a law<g ref="char:EOLhyphen"/>leſſe neceſſity conſtrained him to doe to get food for his poore hunger-bitten Family, his Wife and Children, ready to ſtarve and periſh for want of work?</p>
+            <p>Whats the cauſe many fall to cheating, turne robbers, rebells, common Villaines, and Women cutpurſes, cur<g ref="char:EOLhyphen"/>tizans, proſtitutes, attempt and commit almoſt any thing, make their children poore abortives, or ſtran<g ref="char:EOLhyphen"/>gle them as ſoone as they are borne, and others make away themſelves, is it not poverty? as <hi>Gaſper</hi> the Jeſuite reportes of the Women of <hi>Iapon,</hi> if poore they would ſtifle their children, becauſe they ſhould not ſuffer irke<g ref="char:EOLhyphen"/>ſome poverty; and <hi>Riccius</hi> affirmes as much of the women of China, and dayly examples may teſtify as much a mongſt us.</p>
+            <p>To conclude, whats the generall complaint of all ſorts of people, Beggers, Priſoners, the confeſſion of condemned men at the Gallowes? they could get no work: and is it not great pitty to ſee thouſands of people a<g ref="char:EOLhyphen"/>ble bodies and dejected ſpirits cloathed in ragges, ready to be ſtarved, when imployment may amend and cure all?</p>
+            <p>The fourth thing is the cure and remedy thereof.</p>
+            <p>NOw if the cauſe of all this evill be idleneſſe, want of imployment, the cure and remedy is by applying the contrary, which is induſtry, ſetting of the poore aworke, and although <hi>Ariſtotle</hi> defines riches to be either naturall or artificiall, naturall riches are fertill Lands, rich mines; artificiall riches are Coynes, Trades and manufactures; yet what avayles all or any of theſe without art and induſtry? for fertil Lands wil bring weeds, rich mines or good trades no profit without Art and Induſtry.</p>
+            <pb n="8" facs="tcp:123214:9"/>
+            <p>Art to invent, contrive and regular, and Induſtry to undergoe and indure the coyle, trouble, and labour of it as <hi>Joſephus</hi> reports of the ſons of <hi>Seth,</hi> that they were ingeni<g ref="char:EOLhyphen"/>ons to invent many pretty things, which ſhewed their Art, and then engraved them upon pillars of Stone and marble that neither inundations of water, nor conſumings of fire might deface them, that they might remaine to after Ages, which ſhewed their Induſtry: ſo that Art and Induſtry is ſaid to bee more durable then riches, for what cauſeth Countries, Cities and Townes that are very barren and populous to grow rich, but Art and Induſtry?</p>
+            <p>For Countries, both the Chinaes populous places, yet grow Rich and flouriſh by their induſtry, there is not an idle perſon nor Begger amongſt them.</p>
+            <p>Zeland and Holland flouriſhing Countries, and in ge<g ref="char:EOLhyphen"/>nerall have almoſt three Cities to one of ours, full of In<g ref="char:EOLhyphen"/>habitants and thoſe Rich, Induſtrious, Ingenious and po<g ref="char:EOLhyphen"/>litick.</p>
+            <p>For Cities, the Low-Countries have them Faire, Rich, and populous, and all cauſed by their great induſtry and skilfulneſſe in Trades and Manufactures, by which they maintaine Wars, continue and increaſe comerce and traf<g ref="char:EOLhyphen"/>fique.</p>
+            <p>And Florance in Italy by making cloath of Gold and Silver Arras, for faire and dainty hangings; Corinth in Greece for its riches and induſtry, that is called the glo<g ref="char:EOLhyphen"/>ry of that Country, and Norrembridge in Germany a City ſeted in a barren ſoyle, yet Rich, Wealthy and flouriſhing, and all cauſed by Art and Induſtry, as one notes of them, they are ſo ingenious and laborious as if (faith he) their ſoule or <hi>intellectus agens</hi> was placed in their fingers ends; many other places might be named, and all flouriſh by their induſtry.</p>
+            <pb n="9" facs="tcp:123214:9"/>
+            <p>But if wee looke here in England we ſhall finde our Cities few, ruinous and moſt of the Inhabitants very poore, and many of our Townes depopulated and de<g ref="char:EOLhyphen"/>ſtroyed; for what Towne almoſt throughout the King<g ref="char:EOLhyphen"/>dome, that can produce at this day ſo many ſubſtantiall, and able men, as hath been 30 or 40 yeares ſince, yet every Towne much increaſed with a number of poore and miſerable creatures, whereby our Trades are much decayed, which cauſes our importations to be great, and our exportations ſmall, to the impoverſhing of the land.</p>
+            <p>Now if any demand, wherefore England that is ſo rich a Country, both in fertill Grounds, good Mines and excellent materialls; yet notwithſtanding very poore and full of Beggers, <hi>Boterius</hi> gives the reaſon, and ſaith that fertilty and good meterialls is not enough, unleſſe Art and induſtry be joyned with it, but chiefly induſtry which undergoes the work, for as it increaſes or decrea<g ref="char:EOLhyphen"/>ſes, ebs or flowes, ſo is the ſtrength, power and ability of a Kingdome increaſed or abated.</p>
+            <p>If then the matter of Induſtry be ſo weighty of ſuch great importance, it moſt neceſſarily behoves all Nati<g ref="char:EOLhyphen"/>ons, Princes, Councells of State, Judges, Majeſtrates, Ci<g ref="char:EOLhyphen"/>ties, Townes, Corporate bodies politick, all ſorts of peo<g ref="char:EOLhyphen"/>ple of all eſtates and conditions whatſoever, to advance and further ſo great a worke, which ſupports and ſup<g ref="char:EOLhyphen"/>plies all.</p>
+            <p>And ſuch was the care of King <hi>Solomon</hi> in building the houſe of God, he ſent to <hi>Hyram</hi> King of <hi>Tyrus</hi> for ſtuſſe and workmen.</p>
+            <p>So <hi>Selym</hi> the firſt Turkiſh Emperour, as <hi>Valerius</hi> notes procured a thouſand good Artificers to be brought to Conſtantionople.</p>
+            <p>And <hi>Iames</hi> the firſt of Scotland, as <hi>Buchanan</hi> relates ſent
+<pb n="10" facs="tcp:123214:10"/>for the beſt Artificers he could get in all Europ, and gave them great rewards, to inſtruct his people.</p>
+            <p>And <hi>Edward</hi> the third a moſt renowned Prince, a<g ref="char:EOLhyphen"/>mongſt his Kingly Acts, is memorized for bringing that great Trade of cloathing firſt unto this Land, by ſending over ſuch Tradeſmen from Gaunt hither.</p>
+            <p>And the ancient <hi>Maſſilians</hi> and many other places held a courſe, not to admit any man unto their Cities that had not ſome trade or profeſſion; And <hi>Plato</hi> made a Law not to have a begger not an idle perſon amongſt them: all which do moſt evidently ſhew the neceſſity of induſtry, and imployment of the ſubject.</p>
+            <p>It is a work of Piety, of Charity, of Juſtice, of Honour, of Health, of Wealth, of Strength, of Peace, and Safety, and of the flowriſhing a Kingdome.</p>
+            <p>It will be a meanes to ſave the ſoules and lives of many thouſand,<note place="margin">
+                  <hi>1.</hi> Of Piety.</note> which otherwiſe through a lawleſſe neceſſity, are conſtrained to commit almoſt any villany, to the dan<g ref="char:EOLhyphen"/>ger of both.</p>
+            <p>It will relieve many thouſand hunger-bitten,<note place="margin">
+                  <hi>2.</hi> Of Charity.</note> almoſt ſtarved families, that would work but cannot get it, are aſhamed to beg and afraid to ſteale, and ſo languiſh un<g ref="char:EOLhyphen"/>der the burthen of intollerable wants, and poore chil<g ref="char:EOLhyphen"/>dren idly bred, which through want of imployment fal to lewdneſſe.</p>
+            <p>For there is a cheating lewd inſolentidle ſturdy ſort of poore,<note place="margin">
+                  <hi>3.</hi> Of Iuſtice.</note> that can worke, but will not; infected with the ſame diſeaſe, as one reports of a Begger that came to ſome Gentlemen at <hi>Bruges</hi> with ſhew of weeping, and pretending himſelfe a miſerable creature, troubled with a terrible ſecret diſeaſe, they pittied him and gave him money; but one of them ſeeing the begger fat and well coloured, cauſed his ſervant to make after him, and know
+<pb n="11" facs="tcp:123214:10"/>his malady. To whom the Begger replied, my diſeaſe is ſpread all over my body, ranſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks my very bones, ſo that I can ſtir never a limbe to do any work; and I have heard that this diſeaſe is called laſineſſe, which is a ſhamefull thing to diſcover.</p>
+            <p>And multitudes of people there are in this City miſera<g ref="char:EOLhyphen"/>bly afflicted with this diſeaſe, and nothing but the autho<g ref="char:EOLhyphen"/>rity of juſtice can cure it.</p>
+            <p>And ſo it is of all the reſt, imployment is an honour, a health, a wealth, a peace, a ſafety to a Kingdome, the parti<g ref="char:EOLhyphen"/>culars whereof for brevity I will omit.</p>
+            <p>Thus having in ſhort remonſtrated the ſufferings of the Kingdome, eſpecially of this City, and the miſeries of the poore, and the cauſe, idleneſſe and want of imploy<g ref="char:EOLhyphen"/>ment; together with the cure by art and induſtry; And how it hath cauſed Kingdomes, Countries, and Cities to flouriſh; and what great care Princes, States, all of all ſorts, have alwaies had, and ought to have, to ſuppreſſe idleneſſe, and ſupport imployment, which ſupplies and ſupports all.</p>
+            <p>The fift and laſt thing is, how this cure is to be applyed.</p>
+            <p>THe applying of this cure is by imploying of the poore, by ſetting them to worke: wherein theſe three things are carefully to be done in every <hi>Pariſh, Town, Hamlet, Pre<g ref="char:EOLhyphen"/>cinct, Priſon,</hi> and <hi>Houſe of correction.</hi>
+            </p>
+            <list>
+               <item>1. <hi>To raiſe a ſtocke.</hi>
+               </item>
+               <item>2. <hi>To provide materials.</hi>
+               </item>
+               <item>3. <hi>How to order the worke.</hi>
+               </item>
+            </list>
+            <p>But before we fall upon the applying of the cure, it is requiſite to cleare ſome objections which may be caſt in.</p>
+            <p n="1">
+               <pb n="12" facs="tcp:123214:11"/>1. <hi>Object.</hi> If the number of the poore be ſo great as is ſug<g ref="char:EOLhyphen"/>geſted, it is almoſt impoſſible that any courſe can be taken to imploy and relieve them all.</p>
+            <p>
+               <hi>Anſw.</hi> If the diſeaſe be now almoſt paſt cure few yeeres more will make it altogether incurable; therefore the lon<g ref="char:EOLhyphen"/>ger defer'd the more difficult, troubleſome, and chargable, and more behooveful ſpeedily to be prevented.</p>
+            <p n="2">2. <hi>Obj.</hi> That a ſtocke of an hundred thouſand pounds will ſcarce ſerve to ſet all theſe poore upon imployment, to provide magazines, materials, working-inſtruments, &amp;c. And in regard of the great troubles and taxations upon this City at this time, and the want of trading, ſo great ſtocke will not be raiſed.</p>
+            <p>
+               <hi>Anſ.</hi> If the power of Majeſtracy, and the great Councell of the City approve the work, and reſolve the proſecution thereof, and a Committee be ſelected for that end; ſome whereof of this City, ſome of Weſtminſter, Middleſex, Southwarke, &amp;c. whoſe ayd will be very uſefull, in regard in thoſe parts moſt of the poore doe live.</p>
+            <p>Then it ſhal be made appeare, that the raiſing of a ſtock for imployment of the poore will be an advantage to the City, and no dammage; beſides ſuch a ground-worke may be laid:</p>
+            <list>
+               <item>1. <hi>The ſtocke may be raiſed with little charge to the City.</hi>
+               </item>
+               <item>2. <hi>The materials may be provided at eaſie rates.</hi>
+               </item>
+               <item>3. <hi>The worke regulated with much facility.</hi>
+               </item>
+            </list>
+            <p>To conclude, this buſineſſe is of ſuch conſequence, that it requires great care to lay a ſure foundation at the firſt, leſt all miſcarry; for if after the ſtocke be raiſed, materials provided, and the worke ſet on foot, that it once fall to the ground, then farewell imployment of the poore for ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
